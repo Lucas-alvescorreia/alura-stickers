@@ -17,6 +17,7 @@ public class App {
         System.out.println(body);
 
         // Pegar só os dados que interessam (titulo, poster, classificacao)
-        // Exibir e manipular os dados
+
+        // Exibir e manipular os dados (Usuario)
     }
 }
